@@ -1,1 +1,1 @@
-consoele.log("ytpause");
+console.log("ytpause");
